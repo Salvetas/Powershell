@@ -1,1 +1,1 @@
-# Powershell
+The script is relatively simple, it is enough to fill a .txt file with the names of the users, it will then be in charge of modifying the passwords in addition to checking the 2 boxes. The password never expires + the user can't change it, finally write the logon name with the passwords in a .csv file
